@@ -1,0 +1,7 @@
+{
+  "name": "grpc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fabiano César <fcfabiano.cesar@gmail.com>",
+  "license": "MIT"
+}
